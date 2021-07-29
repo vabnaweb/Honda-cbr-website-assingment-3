@@ -1,0 +1,104 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+/* header */
+.background-color{
+    background: #264653;
+}
+.button-color{
+    background: #E76F51;
+    color: #FFFFFF;
+    font-size: 16px;
+   
+    width: 168px;
+    Height:44px; 
+
+    border-radius: 5px;
+}
+.title-size{
+    font-size: 48px;
+    margin-bottom:18px ;
+    color: #FFFFFF;
+
+  
+}
+.detail-size{
+    font-weight: 300px;
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #FFFFFF;
+}
+.detail-size2{
+    font-size: 16px;
+    font-weight: 300px;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+/* main part */
+/* Fetured Bikes  */
+.grayscale{
+    filter: grayscale(1);
+}
+.fetured-bikes{
+    font-size: 48px;
+}
+.font-color{
+    color: #E76F51;
+    font-size: 14px;
+}
+ /* Happy Clients says  */
+ .happy{
+    font-size: 48px;
+ }
+ .clients-says{
+     color: #E76F51;
+     font-size: 48px;
+ }
+ .icon{
+     color:  #E77C40;;
+ }
+ .regina-miles{
+     color:  #23A6F0;
+     font-size: 14px;
+ }
+ .banker{
+     color:  #252B42;
+     font-size: 14px;
+ }
+ .user-3{
+     border-radius: 30px;
+ }
+
+ /* Frequently Asked Questions section */
+
+ 
+ .frequenty{
+     color:#0D0925;
+     font-size: 48px;
+ }
+ .questions{
+     color: #E76F51;
+     font-size: 48px;
+ }
+
+
+ /* extra section1 */
+ .arrivals{
+     font-size: 48px;
+     color:#E76F51 ;
+ }
+
+ .height{
+     height: 600px;
+ }
+ /* extra section 2 */
+ .background{
+     background-color:rgba(4, 58, 50, 0.815);
+ }
+ /* footer */
+ .footer-logo{
+     height: 100px;
+     width: 200px;
+ }
+
